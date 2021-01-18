@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "647020393423",
+    "project_id": "chatflutterapp-b59f4",
+    "storage_bucket": "chatflutterapp-b59f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647020393423:android:64a134ca1a3a482aaf58ba",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647020393423-bk5ch2cq0dm89f4ett6im9eksnps61bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZIrSrtfwSrVHvZ4gjzAzjr67VT3-ZCyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647020393423-bk5ch2cq0dm89f4ett6im9eksnps61bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647020393423:android:4202fe8de1384bfbaf58ba",
+        "android_client_info": {
+          "package_name": "com.example.lawyer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647020393423-bk5ch2cq0dm89f4ett6im9eksnps61bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZIrSrtfwSrVHvZ4gjzAzjr67VT3-ZCyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647020393423-bk5ch2cq0dm89f4ett6im9eksnps61bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
